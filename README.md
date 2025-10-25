@@ -57,6 +57,7 @@ Exchanges two elements in the array
 ## How to Compile and Run in GitHub Codespaces
 
 Open the terminal and run:
+   ```c
 
 gcc main.c sort.c -o bubble
 ./bubble
